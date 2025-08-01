@@ -1,47 +1,45 @@
 # Digital_Image_Processing
 
 ## Set 1
+1. Write a program to do the following:
 
-1. write a program to do the following:
+    a. Read an image  
+    b. Get image info  
+    c. Find compression ratio for the copied image  
+    d. Display negative of an image  
 
-    a. read an img
+2. Write a program for histogram plotting of an image
 
-    b. get img info
+3. Write a program to perform histogram equalization
 
-    c. find compression ratio for the copied img
+4. Write a program for performing local histogram equalization
 
-    d. display negative of an img
+5. Develop a program for the following image enhancement operations:
 
+    a. Brightness enhancement  
+    b. Contrast enhancement  
+    c. Complement of an image  
+    d. Bi-level or binary contrast enhancement  
+    e. Brightness slicing  
+    f. Low-pass filtering  
+    g. High-pass filtering  
 
-2. write a program for histogram plotting of an img
+6. Develop programs for the following geometrical transformations on an image:
 
-3. write a program to perform histogram equalization
+    a. Translation  
+    b. Rotation  
+    c. Scaling  
+    d. Skewing  
 
-4. write a program for performing local histogram equalization
+## Set 2
+1. Write a program to perform 4 arithmetic operations between 2 images.  
 
-5. develop a program for the following img enhancement operations:
+2. Take a noisy image. Write a program which reduces the noise by averaging the input image by 2, 8, 16, 32, 128. Compare all the resultant images and find which one is noise-free.  
 
-    a. brightness enhancement
-  
-    b. contrast enhancement
-  
-    c. complement of an image
-  
-    d. bi-level or binary contrast enhancement
-  
-    e. brightness slicing
-  
-    f. low-pass filtering
-  
-    g. high-pass filtering
+3. Write a program which implements all the types of linear spatial filters using functions.  
 
+4. Implement a program for image convolution and correlation using a rectangular convolution mask of any odd size. The mask should be input as an ASCII text file. Test your program using the following convolutional kernels:  
 
-6. develop programs for the following geometrical transformations on an img:
-
-    a. translation
-  
-    b. rotation
-  
-    c. scaling
-  
-    d. skewing
+   a. 3×3 averaging  
+   b. 7×7 averaging  
+   c. 11×11 averaging  
