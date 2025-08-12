@@ -43,3 +43,13 @@
    a. 3×3 averaging  
    b. 7×7 averaging  
    c. 11×11 averaging  
+
+5. Write a prgoram for implementing median filtering of an img. Add salt and pepper noise to it. Apply the median filter to the noisy img and compare the results.
+   
+6. Detect the edges in an ing using the following methods and compare the relative performance of these methods:
+   
+    a. sobel  
+    b. prewitt  
+    c. roberts  
+    d. lapacian of a gaussian (LoG)   
+    e. canny
