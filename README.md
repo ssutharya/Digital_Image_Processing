@@ -70,3 +70,20 @@
 11. Write a program to implement various high pass or sharpening frequency domain filters.
 
 12. Write a program to detect straight lines using horizontal, vertical, and diagonal filter masks.
+
+## Set 3
+
+1. Write a program which resotres a degraded image using direct inverse filtering.
+
+2. Write a prgraom for implementing Wiener filtering for linear img restoration using  
+
+    a. a constant ratio  
+    b. auto correaltion function.
+
+3. Write a program to convert an rgb color space to HSI. Display the hue img, saturation img, and the intensity img.
+
+4. Write a program to histogram equalize the intensity component of a color img, and get a new HSI img. Conver the new HSI img to rgb.
+
+5. Write a program to detect the line segements in a binary img using Hough transform.
+
+6. Comsider an image composed of small, non overlapping blobs. Write a program to segment the blobs based on thresholding.
