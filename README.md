@@ -53,3 +53,20 @@
     c. roberts  
     d. lapacian of a gaussian (LoG)   
     e. canny
+
+7. Write a program for smoothening an rgb color img with a linear spatial filter.
+   
+8. Write a program for sharpening an rgb color img with the laplacian filter mask.
+
+9. Take a sample image of size 256*256. Write a program for implementing DFT filtering  
+
+    a. with padding  
+    b. without padding  
+
+   and compare the results.
+
+10. Write a program to implement various low pass or smoothening frequency domain filters.
+
+11. Write a program to implement various high pass or sharpening frequency domain filters.
+
+12. Write a program to detect straight lines using horizontal, vertical, and diagonal filter masks.
