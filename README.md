@@ -87,3 +87,9 @@
 5. Write a program to detect the line segements in a binary img using Hough transform.
 
 6. Comsider an image composed of small, non overlapping blobs. Write a program to segment the blobs based on thresholding.
+
+7. Consider an img composed of small, non overlapping blobs. Write a program to segment the blobs based on region growing.
+
+8. Write a program to implement the split and merge porcedure for segmenting the img with different values for minimum dimensions of the quad-tree regions.
+
+9. Consider a binary img composed of small blobs. Write a program to segment the blobs using watershed transform.
